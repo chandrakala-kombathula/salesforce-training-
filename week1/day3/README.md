@@ -1,13 +1,9 @@
 # Day 3
 
 ## Topics Learned
-- Salesforce Objects
+- Objects
 - Records
-- Data Model Basics
+- Salesforce Data Structure
 
 ## Learnings
-Learned how Salesforce stores data using objects and records.
-
-## Doubts
-- Difference between standard and custom objects
-
+Salesforce stores information using objects and records.
