@@ -1,8 +1,10 @@
+# Day 2
 
-# Week 1 - Day 2
+## Topics Learned
+- Salesforce Interface Basics
+- Leads
+- Contacts
+- Accounts
 
-## Topics Covered
-- Salesforce Basics
-
-## What I Learned
-- Learned basic concepts
+## Learnings
+Learned how Salesforce manages customer details and sales workflow.
