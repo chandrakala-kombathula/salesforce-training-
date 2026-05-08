@@ -1,12 +1,8 @@
 # Day 4
 
 ## Topics Learned
-- Leads
-- Contacts
-- Accounts
+- Platform Basics
+- Data Model Basics
 
 ## Learnings
-Learned how companies manage customer information in Salesforce.
-
-## Doubts
-- How leads are converted into contacts
+Learned basic Salesforce platform concepts and data modeling.
