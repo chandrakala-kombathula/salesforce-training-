@@ -1,12 +1,8 @@
 # Day 5
 
 ## Topics Learned
-- Salesforce Interface
-- CRM Workflow
-- Basic Navigation
+- Real-world Applications of Salesforce
+- Admin vs Developer Roles
 
 ## Learnings
-Understood the basic workflow and navigation in Salesforce CRM.
-
-## Doubts
-- How real-time projects are developed in Salesforce
+Understood the difference between Salesforce Admin and Developer roles.
